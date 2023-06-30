@@ -1,0 +1,12 @@
+class COLORS:
+    BLACK = (0,0,0)
+    WHITE = (255,255,255)
+    RED = (250,0,0)
+    DARK_RED = (125, 6, 6)
+    ORANGE = (255,165,0)
+    GREEN = (0,255,0)
+    CYAN = (0, 100, 100)
+    YELLOW = (255, 255, 0)
+    LIGHT_YELLOW = (232, 221, 176)
+    DARK_YELLOW = (163, 120, 0)
+    BLUE = (0, 0, 255)
