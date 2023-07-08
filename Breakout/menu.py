@@ -6,7 +6,9 @@ from button import Button
 from main import Game
 
 pygame.init()
-SCREEN_WIDTH = 1000
+pygame.mixer.init()
+
+SCREEN_WIDTH = 1200
 SCREEN_HEIGHT = 700
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 ORIGINAL_MENU_BACKGROUND = pygame.image.load("images/menu_background.jpg")
