@@ -1,2 +1,2 @@
 # Break-Out
-break blocks with your balls
+break the blocks with the ball !!
